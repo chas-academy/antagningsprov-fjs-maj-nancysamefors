@@ -1,12 +1,11 @@
-
-
 function uppg1(){
 
-    // Skriv ut texten "Hello World!" i konsolen
-    
+    // Uppgift 1: Skriv ut "Hello World!" i konsolen
 
+    console.log('Hello World!');
     
     }
 
+uppg1(); // <-- det här anropar funktionen
 
     module.exports = { uppg1 };
